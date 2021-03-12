@@ -11,9 +11,10 @@ body {
   font-family: 'Open Sans', sans-serif;}
 
 h1 {
-  background: #1e1b1e url("../images/mn.jpg") no-repeat;
-  width: 230px;
-  height: 180px;
+  background: #1e1b1e url("../images/mn21.jpg") no-repeat;
+    border-radius: 5px 60px 5px;
+  width: 214px;
+  height: 186px;
   float: left;
   text-indent: 100%;
   white-space: nowrap;
@@ -37,7 +38,7 @@ p + h2 {
 #message {
   float: left;
   clear: left;
-  background-color: #ffb87a;
+  background-color: #641058;
   color: #5f0f5f;
   width:170px;
   padding: 18px 30px;
@@ -51,7 +52,7 @@ p + h2 {
   height: 125px;
   width: 125px;
   background-color: rgb(14, 13, 13);
-  border-radius: 5px 20px 5px;
+  border-radius: 5px 60px 5px;
   display: table-caption;
   color: #fff;
     padding: 0 15px;
@@ -81,15 +82,18 @@ p + h2 {
 
 #trek1 {
   margin-top: 1em; 
-  border-top: 1px solid rgb(99, 26, 26); 
+  border-top: 1px solid #1a927e; 
   padding-top: 1em;} 
+  
+
 #trek2 {
-  border-bottom: 1px solid rgb(112, 50, 50); 
+  color: #fff;
+  border-bottom: 1px solid #1a927e  ; 
   padding-bottom: 1em;}
 
 #places {
   font-size: 440%;
-  color: #ffb87a;
+  color: #1a927e;
   display: inline-block;
   margin: 0;}
 
